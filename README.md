@@ -34,4 +34,4 @@ The site is built using **HTML**, **Tailwind CSS**, and **Font Awesome** icons, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://mujeeb-ali/mujeeb-ur-rehman.github.io.git
